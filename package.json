@@ -2,7 +2,7 @@
   "name": "test-technique-numendo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://miky9201.github.io/Weather-App/",
+  "homepage": "https://miky9201.github.io/Weather-App-main/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
