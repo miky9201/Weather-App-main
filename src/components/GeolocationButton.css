@@ -1,0 +1,11 @@
+.geo-button {
+      border-radius: 50px;
+      padding: 8px 10px;
+      background-color: #e4edec;
+}
+
+.app-geo {
+      position: absolute;
+      top: 0px;
+      right: 0px;
+}
